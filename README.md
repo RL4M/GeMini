@@ -37,7 +37,7 @@ Now everything is well set and you can start training by running the following s
 sh run_train.sh
 ```
 Note that hyperparameters and training arguments are also specified in the `run_train.sh` script.
-Our pre-trained checkpoint for GeMini can be downloaded from [link]().
+Our pre-trained checkpoint for GeMini can be downloaded from [link](https://drive.google.com/drive/folders/1CREwrjZG7brLQJZ7WAce2rarPn8VJnAK?usp=sharing).
 
 ## Evaluation
 To evaluate GeMini on the test set, please update the data and model paths in `sh run_test.sh` accordingly and run:
